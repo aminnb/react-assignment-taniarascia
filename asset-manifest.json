@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-assignment-taniarascia/static/css/main.08011531.chunk.css",
+    "main.js": "/react-assignment-taniarascia/static/js/main.356debcd.chunk.js",
+    "main.js.map": "/react-assignment-taniarascia/static/js/main.356debcd.chunk.js.map",
+    "runtime-main.js": "/react-assignment-taniarascia/static/js/runtime-main.60fc6dc3.js",
+    "runtime-main.js.map": "/react-assignment-taniarascia/static/js/runtime-main.60fc6dc3.js.map",
+    "static/js/2.eb0022db.chunk.js": "/react-assignment-taniarascia/static/js/2.eb0022db.chunk.js",
+    "static/js/2.eb0022db.chunk.js.map": "/react-assignment-taniarascia/static/js/2.eb0022db.chunk.js.map",
+    "index.html": "/react-assignment-taniarascia/index.html",
+    "precache-manifest.6f90b21b84f97cae93eeee8baabfd53a.js": "/react-assignment-taniarascia/precache-manifest.6f90b21b84f97cae93eeee8baabfd53a.js",
+    "service-worker.js": "/react-assignment-taniarascia/service-worker.js",
+    "static/css/main.08011531.chunk.css.map": "/react-assignment-taniarascia/static/css/main.08011531.chunk.css.map",
+    "static/js/2.eb0022db.chunk.js.LICENSE.txt": "/react-assignment-taniarascia/static/js/2.eb0022db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60fc6dc3.js",
+    "static/js/2.eb0022db.chunk.js",
+    "static/css/main.08011531.chunk.css",
+    "static/js/main.356debcd.chunk.js"
+  ]
+}
